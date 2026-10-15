@@ -39,3 +39,5 @@ Linux command-line literacy supports GRC and audit work because security profess
 ## Evidence
 
 Project evidence includes terminal screenshots showing the commands used and their outputs, together with the completed assignment report.
+
+[View Final Kali Linux Assignment Report (PDF)](Damisola_Ogunleye_Linux_Fundamentals_Assignment_GRC-C6-09-EU-019.pdf)
