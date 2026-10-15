@@ -54,3 +54,5 @@ The project demonstrates practical understanding of network segmentation, access
 ## Evidence
 
 Project evidence includes the Cisco Packet Tracer topology, configuration screenshots, connectivity tests, ACL validation, and the completed project report.
+
+[View Final Netcore Project Report (PDF)](Netcore_Network_Project_Report_Final.pdf)
