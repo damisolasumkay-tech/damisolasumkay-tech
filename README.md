@@ -33,6 +33,12 @@ Hands-on Linux lab completed in Kali Linux using Oracle VirtualBox. The project 
 Cisco Packet Tracer project designing and configuring a structured departmental network for IT, Sales, and HR, including centralized DHCP, DNS/HTTP services, routing, DHCP relay, and ACL-based access control.
 
 **GRC relevance:** network segmentation, access control, least privilege, control testing, validation evidence, and security documentation.
+#### 3. [Nexus Financial Services – GRC Framework Assessment](projects/nexus-grc-framework-assessment/README.md)
+
+Governance, Risk, and Compliance (GRC) case study assessing governance weaknesses, risk management practices, and compliance gaps at Nexus Financial Services. Identified three organizational issues and recommended a formal, board-approved GRC framework with clear accountability, documented risk assessments, and regulatory compliance monitoring.
+
+**GRC relevance:** governance assessment, risk identification, compliance gap analysis, policy oversight, risk-based recommendations, and professional documentation.
+
 
 ### Portfolio Goal
 
