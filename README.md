@@ -46,4 +46,4 @@ Governance, Risk, and Compliance (GRC) case study assessing governance weaknesse
 
 ### Portfolio Goal
 
-I use this portfolio to document verified GRC projects, risk and control work, audit-ready evidence, and practical cybersecurity labs as I build toward a Governance, Risk and Compliance career.
+This portfolio showcases my practical work in cybersecurity governance, risk assessment, compliance analysis, security control evaluation, and technical security assessments. Each project demonstrates my approach to identifying risks, evaluating controls, documenting evidence, and developing actionable recommendations to strengthen organizational security and compliance.
