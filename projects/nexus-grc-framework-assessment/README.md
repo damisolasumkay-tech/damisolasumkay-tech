@@ -44,7 +44,7 @@ Consider opportunities to improve cybersecurity processes, documentation, monito
 
 ## Project Deliverables
 
-- GRC Framework Assessment Report (PDF) – To be uploaded.
+-  [View Final GRC Framework Assessment Report (PDF)](GRC_Fundamentals_Nexus_Assignment_FINAL.pdf).
 
 ## Professional Relevance
 
