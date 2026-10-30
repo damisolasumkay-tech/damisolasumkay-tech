@@ -2,8 +2,7 @@
 
 ## Governance, Risk and Compliance (GRC) Professional
 
-I am building practical expertise in cybersecurity governance, risk management, compliance, internal controls, and audit readiness through hands-on training and real-world projects.
-
+Governance, Risk, and Compliance (GRC) professional focused on cybersecurity risk assessment, security governance, regulatory compliance, internal controls, and audit readiness. My work includes evaluating security risks, identifying control gaps, documenting assessment findings, and developing risk-based recommendations to strengthen organizational security and compliance.
 ### GRC Areas of Focus
 
 - Cybersecurity Risk Assessment
@@ -15,12 +14,17 @@ I am building practical expertise in cybersecurity governance, risk management, 
 - Incident and Change Management
 - Risk and Control Documentation
 
-### Current Development
 
-- 10Alytics Governance, Risk and Compliance Program
-- Practical cybersecurity and networking labs
-- Risk assessment and control-mapping projects
-- CISA certified
+### GRC Projects & Professional Practice
+
+- Cybersecurity governance, risk, and compliance assessments
+- Security risk identification, assessment, and documentation
+- Internal control evaluation and compliance gap analysis
+- Security policy review and control documentation
+- Risk-based recommendations and remediation planning
+- Network security, access control, and technical security assessments
+- Audit readiness, evidence collection, and professional reporting
+- Practical GRC projects and cybersecurity assessments completed in collaboration with the 10Alytics professional learning community
 
 ### Portfolio Projects
 
